@@ -1,0 +1,10 @@
+# Ignore files
+.env
+*.log
+.DS_Store
+/bin
+/dist
+.idea/
+.vscode/
+*.swp
+*.swo
